@@ -212,7 +212,7 @@ body>#box p{
   
 }
 #navpage #bottom #left{
-  font-family: gilror;
+  font-family: gilroy;
   font-size: 1.2vw;
 }
 #navpage #bottom #right{
@@ -337,11 +337,12 @@ body>#box p{
 #main #page2 #right #box{
   width: max-content;
   height: max-content;
+  margin-top: -227px;
 
 }
 #main #page2 #right #box video{
-  width: 500px;
-  height: 500px;
+  width: 650px;
+  height: 650px
 }
 
 
